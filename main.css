@@ -1,0 +1,20 @@
+*{
+margin: 0;
+padding: 0;
+background-color: #22223B;
+color: white;
+transition: all 3s ease;
+}
+a{
+padding: 33px;
+display: block;
+font-weight: bold;
+text-align: center;
+font-family: helvetica;
+text-decoration: none;
+font-size: 19px;
+}
+a.back{
+float: right;
+font-size: 20px;
+}
